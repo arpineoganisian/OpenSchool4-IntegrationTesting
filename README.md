@@ -1,4 +1,4 @@
-# OpenSchool4-Microservices
+# OpenSchool4-IntegrationTesting
 Testing RESTful API with Testcontainers
 
 ## How to run the application
